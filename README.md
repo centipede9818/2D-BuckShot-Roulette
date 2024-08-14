@@ -27,4 +27,4 @@ The workspace contains two folders by default, where:
 
 *Project managed by:*
 - [Tanmay Vijay](https://github.com/tanmayvj10)
-- [Tanmay Sharma]()
+- [Tanmay Sharma](https://github.com/centipede9818)
